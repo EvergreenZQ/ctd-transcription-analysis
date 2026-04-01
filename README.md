@@ -11,5 +11,3 @@ Analysis code for the study "A Tunable CTD Grammar Governs the Spatial Programmi
 - `TTseq_MAplot.R`  
   R script for differential expression analysis and custom MA plot generation from TT-seq data.
 
-- `MATLAB scripts for STORM quantification`  
-  MATLAB scripts for STORM image quantification.
